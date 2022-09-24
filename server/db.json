@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "name": "Bogdan",
+      "url": "url",
+      "count": "1",
+      "size": {
+        "height": "20",
+        "width": "30"
+      },
+      "weight": "40",
+      "id": 1
+    },
+    {
+      "name": "Bogdan",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+      "count": "5",
+      "size": {
+        "height": "1",
+        "width": "1"
+      },
+      "weight": "1",
+      "id": 3
+    },
+    {
+      "name": "vasyl",
+      "url": "url",
+      "count": "25",
+      "size": {
+        "height": "1",
+        "width": "1"
+      },
+      "weight": "1",
+      "id": 4
+    },
+    {
+      "name": "Andre",
+      "url": "123",
+      "count": "2",
+      "size": {
+        "height": "1",
+        "width": "1"
+      },
+      "weight": "1",
+      "id": 5
+    },
+    {
+      "name": "vasyl",
+      "url": "aasd",
+      "count": "1",
+      "size": {
+        "height": "1",
+        "width": "1"
+      },
+      "weight": "1",
+      "id": 6
+    },
+    {
+      "name": "Bogdan",
+      "url": "url",
+      "count": 123,
+      "height": 123,
+      "id": 7
+    },
+    {
+      "name": "Bogdan",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+      "count": 123,
+      "height": 123,
+      "width": 123,
+      "weight": "123",
+      "id": 8
+    }
+  ]
+}

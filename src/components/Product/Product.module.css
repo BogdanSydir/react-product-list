@@ -1,0 +1,13 @@
+.background{
+    box-sizing: border-box;
+    background: orange;
+    border: 1px solid black;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.image{
+    width: 250px;
+    height: 200px;
+}
